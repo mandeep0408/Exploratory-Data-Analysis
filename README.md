@@ -1,6 +1,7 @@
 # 🔍 Exploratory Data Analysis Using Different Types of Data
 
 Welcome to this project where **data tells its story!**  
+
 Explore rich datasets through powerful visualizations and deep insights using Python. This project showcases how structured data can be cleaned, analyzed, and interpreted to uncover trends and patterns that drive smart decisions.
 
 ---
