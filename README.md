@@ -6,7 +6,7 @@ Explore rich datasets through powerful visualizations and deep insights using Py
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 - **Python** — The powerhouse language for data science  
 - **pandas** — Data manipulation made easy  
@@ -15,7 +15,7 @@ Explore rich datasets through powerful visualizations and deep insights using Py
 
 ---
 
-## Project Features
+### Project Features
 
 -  **Data Cleaning & Preprocessing:** Handle messy data with care — missing values, duplicates, and outliers.  
 -  **Descriptive Statistics:** Summarize your data to get a solid understanding of its structure and trends.  
@@ -25,7 +25,7 @@ Explore rich datasets through powerful visualizations and deep insights using Py
 
 ---
 
-## Project Progress
+### Project Progress
 
 | Date        | Project Name | Highlights                                          |
 |-------------|--------------|----------------------------------------------------|
@@ -33,7 +33,7 @@ Explore rich datasets through powerful visualizations and deep insights using Py
 
 ---
 
-## Contact
+#### Contact
 
 **Mandeep Choudhary**  
 📧 mandeepchoudhary0408@gmail.com  
