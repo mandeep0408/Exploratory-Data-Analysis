@@ -1,4 +1,4 @@
- Exploratory Data Analysis Using Different Types of Data
+## Exploratory Data Analysis Using Different Types of Data
 
 Welcome to this project where **data tells its story!**  
 
