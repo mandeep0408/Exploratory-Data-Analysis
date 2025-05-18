@@ -17,11 +17,11 @@ Explore rich datasets through powerful visualizations and deep insights using Py
 
 ## Project Features
 
-- 🧹 **Data Cleaning & Preprocessing:** Handle messy data with care — missing values, duplicates, and outliers.  
-- 📊 **Descriptive Statistics:** Summarize your data to get a solid understanding of its structure and trends.  
-- 🎨 **Insightful Visualizations:** From histograms to scatter plots, bring your data to life visually.  
-- 🔗 **Correlation & Feature Analysis:** Dive deeper into relationships within the data for better feature selection and understanding.  
-- 🔄 **Versatile Data Types:** Work seamlessly across time series, categorical, and numerical data to cover all bases.
+-  **Data Cleaning & Preprocessing:** Handle messy data with care — missing values, duplicates, and outliers.  
+-  **Descriptive Statistics:** Summarize your data to get a solid understanding of its structure and trends.  
+-  **Insightful Visualizations:** From histograms to scatter plots, bring your data to life visually.  
+-  **Correlation & Feature Analysis:** Dive deeper into relationships within the data for better feature selection and understanding.  
+-  **Versatile Data Types:** Work seamlessly across time series, categorical, and numerical data to cover all bases.
 
 ---
 
