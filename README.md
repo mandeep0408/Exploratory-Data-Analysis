@@ -25,11 +25,12 @@ Explore rich datasets through powerful visualizations and deep insights using Py
 
 ---
 
-### Project Progress
+### Project Progress  
 
-| Date        | Project Name | Highlights                                          |
-|-------------|--------------|----------------------------------------------------|
-| 18 May 2025 | Book Sales   | Performed EDA on book sales data, uncovering key insights about authors, genres, and sales trends. |
+| Date        | Project Name          | Highlights                                                                                                             |  
+|------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------|  
+| 18 May 2025 | Book Sales            | Performed EDA on book sales data, uncovering key insights about authors, genres, and sales trends.                            |  
+| 19 May 2025 | Volleyball Analytics  | Explored EDA using Python Pandas on a volleyball dataset, analyzing trends and visualizing data patterns in sports analytics. | 
 
 ---
 
