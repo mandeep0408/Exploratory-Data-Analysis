@@ -31,6 +31,7 @@ Explore rich datasets through powerful visualizations and deep insights using Py
 |------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------|  
 | 18 May 2025 | Book Sales            | Performed EDA on book sales data, uncovering key insights about authors, genres, and sales trends.                            |  
 | 19 May 2025 | Volleyball Analytics  | Explored EDA using Python Pandas on a volleyball dataset, analyzing trends and visualizing data patterns in sports analytics. | 
+| 20 May 2025 | Olympic Analysis      | Conducted in-depth EDA on Olympic data, identifying patterns across countries, sports, and medal counts.                   |  
 
 ---
 
